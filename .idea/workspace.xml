@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="deecc33b-a09f-4b96-90aa-d9a31872efbe" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/dayOneSolution.py" afterPath="$PROJECT_DIR$/dayOneSolution.py" />
+      <change beforePath="$PROJECT_DIR$/dayTwoSolution.py" afterPath="$PROJECT_DIR$/dayTwoSolution.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,31 +13,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="day2Resource" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/day2Resource">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="63" lean-forward="false" selection-start-line="15" selection-start-column="63" selection-end-line="15" selection-end-column="63" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="dayTwoSolution.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="dayTwoSolution.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dayTwoSolution.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="dayOneSolution.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/dayOneSolution.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="31" lean-forward="true" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
+            <state relative-caret-position="225">
+              <caret line="15" column="43" lean-forward="false" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -62,8 +42,8 @@
         <option value="$PROJECT_DIR$/resources/dayOneResource.txt" />
         <option value="$PROJECT_DIR$/resources/day1Resource" />
         <option value="$PROJECT_DIR$/resources/day2Resource" />
-        <option value="$PROJECT_DIR$/dayTwoSolution.py" />
         <option value="$PROJECT_DIR$/dayOneSolution.py" />
+        <option value="$PROJECT_DIR$/dayTwoSolution.py" />
       </list>
     </option>
   </component>
@@ -124,7 +104,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.dayOneSolution">
+  <component name="RunManager" selected="Python.dayTwoSolution">
     <configuration name="dayOneSolution" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -167,8 +147,8 @@
     </list>
     <recent_temporary>
       <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Python.dayOneSolution" />
-        <item index="1" class="java.lang.String" itemvalue="Python.dayTwoSolution" />
+        <item index="0" class="java.lang.String" itemvalue="Python.dayTwoSolution" />
+        <item index="1" class="java.lang.String" itemvalue="Python.dayOneSolution" />
       </list>
     </recent_temporary>
   </component>
@@ -273,6 +253,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/dayOneSolution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="23" lean-forward="true" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/resources/day2Resource">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -283,16 +271,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dayTwoSolution.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dayOneSolution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="31" lean-forward="true" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
+        <state relative-caret-position="225">
+          <caret line="15" column="43" lean-forward="false" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
           <folding />
         </state>
       </provider>
