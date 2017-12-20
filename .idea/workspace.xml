@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="deecc33b-a09f-4b96-90aa-d9a31872efbe" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/dayOneSolution.py" afterPath="$PROJECT_DIR$/dayOneSolution.py" />
-      <change beforePath="$PROJECT_DIR$/dayTwoSolution.py" afterPath="$PROJECT_DIR$/dayTwoSolution.py" />
-      <change beforePath="$PROJECT_DIR$/resources/day2Resource" afterPath="$PROJECT_DIR$/resources/day2Resource" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,7 +23,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dayTwoSolution.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="dayTwoSolution.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dayTwoSolution.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
@@ -35,11 +33,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dayOneSolution.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="dayOneSolution.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dayOneSolution.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+            <state relative-caret-position="345">
+              <caret line="23" column="31" lean-forward="true" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -126,7 +124,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.dayTwoSolution">
+  <component name="RunManager" selected="Python.dayOneSolution">
     <configuration name="dayOneSolution" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -169,8 +167,8 @@
     </list>
     <recent_temporary>
       <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Python.dayTwoSolution" />
-        <item index="1" class="java.lang.String" itemvalue="Python.dayOneSolution" />
+        <item index="0" class="java.lang.String" itemvalue="Python.dayOneSolution" />
+        <item index="1" class="java.lang.String" itemvalue="Python.dayTwoSolution" />
       </list>
     </recent_temporary>
   </component>
@@ -283,18 +281,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dayOneSolution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dayTwoSolution.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dayOneSolution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="31" lean-forward="true" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
           <folding />
         </state>
       </provider>
