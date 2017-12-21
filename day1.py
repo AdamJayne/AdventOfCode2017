@@ -1,5 +1,4 @@
-myFile = open("./resources/day1Resource")
-theKey = myFile.read()
+theKey = open("./resources/day1Resource").read()
 
 # Part 1
 

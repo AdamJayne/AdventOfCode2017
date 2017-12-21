@@ -1,5 +1,4 @@
-twoFile = open("./resources/day2Resource")
-resource = twoFile.read()
+resource = open("./resources/day2Resource").read()
 
 # Part 1
 total = 0
