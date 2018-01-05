@@ -1,4 +1,4 @@
-<a href="https://www.adventofcode.com" target="_blank">Advent Of Code 2017</a>
+<a href="https://www.adventofcode.com" target="_blank" style="text-align: center;">Advent Of Code 2017</a>
 ======
 ### Welcome to my python solutions to this years AOC challenges
 1. [Day 1](day1.py)
