@@ -4,6 +4,7 @@ formatted = data.split("\n")
 shrinked = []
 topLevel = []
 names = []
+bottom = ""
 for i in formatted:
     x = i.split(" -> ")
     if len(x) == 2:
@@ -15,4 +16,9 @@ for i in shrinked:
     for v in top:
         topLevel.append(v)
 for i in names:
-    if 
+    if i in topLevel:
+        pass
+    else:
+        bottom = i
+print(bottom)
+
