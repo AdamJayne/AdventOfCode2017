@@ -7,4 +7,4 @@
 4. [Day 4](day4.py)
 5. [Day 5](day5.py)
 6. [Day 6](day6.py)
-7. Day 7 (in progress)
+7. [Day 7](day7.py)(part 1 finished, working on part 2)
