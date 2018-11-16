@@ -8,3 +8,5 @@
 5. [Day 5](day5.py)
 6. [Day 6](day6.py)
 7. [Day 7](day7.py)(part 1 finished, working on part 2)
+8. [Day 8](day8.py)
+9. [Day 9] in progress..
