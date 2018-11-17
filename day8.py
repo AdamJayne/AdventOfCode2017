@@ -42,6 +42,7 @@ def incDec(process, x):
     else:
         x.dec(int(process[2]))
 
+
 def instruct(process, x, y):
     if (process[5] == "==") & (int(process[6]) == int(y.value)):
         incDec(process, x)
@@ -74,3 +75,4 @@ for n in registry:
 registry.sort()
 print("Maximum after processing:", registry[0].value)
 print("Maximum memory held:", max(numbers))
+
